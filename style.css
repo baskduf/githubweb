@@ -15,3 +15,7 @@ header {
 nav {
     padding-bottom: 10px;
 }
+
+article p {
+    padding-bottom: 10px;
+}
