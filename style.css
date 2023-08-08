@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    padding: 30px;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
+
+.nav-icon {
+    text-align: center;
+}
+
+nav {
+    padding-bottom: 10px;
+}
